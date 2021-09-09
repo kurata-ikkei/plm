@@ -1,0 +1,54 @@
+html{
+    top: 0px;
+    bottom: 0px;
+}
+
+body{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+header{
+    background-color: gray;
+    color: white;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.login_area, .register_area, .nonuser_area{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.login_area{
+    background-color: rgb(187, 185, 185);
+}
+
+.register_area{
+    background-color: rgb(221, 218, 218);
+}
+
+fieldset{
+    margin: auto;
+    width: 50%;
+    display: block;
+
+}
+
+#login{
+    background-color: blue;
+    color: white;
+
+}
+
+#register{
+    background-color: orange;
+}
+
+
+a{  
+    font-size: 20px;
+    color: red;
+}

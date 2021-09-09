@@ -1,0 +1,20 @@
+html{
+    text-align: center;
+    margin: auto;
+    width: 1000px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+.item{
+    border: 1px solid #747272;
+}

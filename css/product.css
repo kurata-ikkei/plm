@@ -1,0 +1,21 @@
+html{
+    margin: auto;
+    width: 1000px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.image{
+    width: 300px;
+}
+
+.info{
+    width: 700px;
+}

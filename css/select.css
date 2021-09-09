@@ -1,0 +1,30 @@
+body{
+    font-size: 16px;
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    font-size: 24px;
+    font: bold;
+    background-color: blanchedalmond;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th{
+    border: solid 1px #000000;
+    font-size: 16px;
+    padding: 5px;
+    background-color: gray;
+    color: #ffffff;
+}
+td{
+    border: solid 1px #000000;
+    font-size: 16px;
+    padding: 5px;
+
+}
